@@ -1,0 +1,15 @@
+.App{
+    height: 100%;
+    min-height: 100%;
+    background: url("vpbg.png") no-repeat center;
+    background-size: cover;
+    contain: content;
+}
+
+.window{
+    width: 1200px;
+    height: 570px;
+    margin-top: 30px;
+
+}
+

@@ -1,0 +1,14 @@
+.credits{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+#references{
+    font-size: 15px;
+    width: 1180px;
+    height: 500px;
+    margin: auto;
+    overflow: scroll;
+}
